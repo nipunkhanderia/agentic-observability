@@ -1,0 +1,4 @@
+arize-phoenix
+openai
+numpy
+pandas
